@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 (english)
 
-<!--
-**Nodefense/Nodefense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am currently learning Godot Engine 4;
+- 👯 I am looking to collaborate on GNU Project;
+- 📫 How to reach me: leonardoleo46@proton.me e-mail adress;
 
-Here are some ideas to get you started:
+## Salve 👋 (português)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou atualmente aprendendo Godot Engine 4;
+- 👯 Quero contribuir com o Projeto GNU;
+- 📫 Como falar comigo: endereço de e-mail leonardoleo46@proton.me;.
+
+## こんにちは 👋 (日本語)
+
+- 🌱 現在、Godot Engine 4を学習してい
+- 👯 GNUプロジェクトに貢献したく
+- 📫 わたくしに連絡するため、 leonardoleo46@proton.me のメールアドレスを使用しろ。
