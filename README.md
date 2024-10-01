@@ -4,7 +4,7 @@
 - 学 I am currently learning Godot Engine 4;
 - 欲 I am looking to collaborate on GNU Project;
 - 話 In order to talk with me, use the leonardoleo46@proton.me email adress;
-- 言 Please. say FREE SOFTWARE, not "open source".
+- 言 Please. say "free software" instead of "open source".
 
 ## Salve (português)
 
