@@ -4,6 +4,7 @@
 - 学 I am currently learning Godot Engine 4;
 - 欲 I am looking to collaborate on GNU Project;
 - 話 In order to talk with me, use the leonardoleo46@proton.me email adress;
+- 号 My PGP public key is on https://github.com/Nodefense/Nodefense/blob/master/PGPPUBLICKEY.
 - 言 Free (libre) Software, not Open Source.
 
 ## Salve (português)
@@ -12,6 +13,7 @@
 - 学 Estou atualmente aprendendo Godot Engine 4;
 - 欲 Quero contribuir com o Projeto GNU;
 - 話 Para falar comigo, use o endereço de correio eletrônico leonardoleo46@proton.me;
+- 号 A minha chave pública PGP está em https://github.com/Nodefense/Nodefense/blob/master/PGPPUBLICKEY.
 - 言 Software Livre, não Código Aberto.
 
 ## こんにちは (日本語)
@@ -20,4 +22,5 @@
 - 学 現在、Godot Engine 4を学習してい
 - 欲 GNUプロジェクトに貢献したい。
 - 話 ワタクシに連絡するため、 leonardoleo46@proton.me のメールアドレスを使用してください。
+- 号 PGP公開鍵はhttps://github.com/Nodefense/Nodefense/blob/master/PGPPUBLICKEYにある。
 - 言 オープンソースではなく、フリーソフトウェアを。
